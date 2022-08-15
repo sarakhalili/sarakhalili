@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarakhalili
-- 👀 I’m interested in Computer Vision and Machine Learning
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on Computer Vision projects in biomedical engineering 
+- 👀 I’m interested in Computer Vision and Machine Learning in Healthcare systems.
+- 🌱 I’m currently working on Nonlinear and Chaotic Systems and Signals.
+- 💞️ I’m looking to collaborate on Computer Vision projects in biomedical engineering and I'm deeply enthusiastic about learning more about Neuroscience.
 - 📫 How to reach me: sarahkhalili89@gmail.com
 
 <!---
